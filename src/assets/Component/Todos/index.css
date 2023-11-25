@@ -1,0 +1,25 @@
+div{
+    width: 600px;
+    margin: auto;
+    text-align: center;
+}
+input{
+    height: 28px;
+    width: 300px;
+}
+button{
+    height: 35px;
+    background: #501ddb;
+    color: #fff;
+    border: none;
+    padding:  0 15px;
+}
+             
+li{
+    background: #000;
+    list-style: none;
+    color: #fff;
+    padding: 8px 0;
+    border-bottom: 1px solid #ffff;
+    text-transform: capitalize;
+}
